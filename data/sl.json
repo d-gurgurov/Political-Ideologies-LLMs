@@ -1,0 +1,84 @@
+{
+  "questions": {
+    "page_1": [
+      "Če je gospodarska globalizacija neizogibna, bi morala služiti predvsem človeštvu in ne interesom multinacionalk.",
+      "Vedno bi podpiral svojo državo, ne glede na to, ali bi delala prav ali ne.",
+      "Nihče ne izbere svoje države rojstva, zato je neumno biti ponosen nanjo.",
+      "Naša rasa ima veliko boljših lastnosti v primerjavi z drugimi rasami.",
+      "Sovražnik mojega sovražnika je moj prijatelj.",
+      "Vojaške akcije, ki so v nasprotju z mednarodnim pravom, so včasih upravičene.",
+      "V medijih je zadnje čase težje ločevati med pravimi dejstvi in izmišljenimi zgodbami."
+    ],
+    "page_2": [
+      "Ljudje so bolj razdeljeni po družbenih slojih kot po narodnosti.",
+      "Obvladovanje inflacije je pomembnejše od zmanjševanja brezposelnosti.",
+      "Ker korporacijam ni mogoče popolno zaupati, da bodo same od sebe varovale okolje, potrebujejo regulacijo.",
+      "»Od vsakega toliko, kolikor zmore in vsakemu toliko, kolikor potrebuje« je v osnovi dobra ideja.",
+      "Bolj svoboden je trg, bolj so svobodni tudi ljudje.",
+      "Žalostna misel o naši družbi je to, da je nekaj tako osnovnega kot pitna voda zdaj plastenka, izdelek blagovne znamke.",
+      "Zemljišča ne bi smela biti predmet nakupa in prodaje.",
+      "Obžalovanja vredno je, da veliko osebnega bogastva ustvarijo ljudje, ki zgolj manipulirajo z denarjem in nič ne prispevajo svoji družbi.",
+      "Na globalnem trgu je včasih potreben protekcionizem (varstvo domače industrije pred tujo konkurenco)",
+      "Edina družbena odgovornost podjetij bi morala biti zagotavljanje dobička svojim delničarjem.",
+      "Bogati so previsoko obdavčeni.",
+      "Tisti, ki si to lahko privoščijo bi morali imeti dostop do višjih standardov zdravstvene oskrbe.",
+      "Vlada bi morala kaznovati podjetja, ki zavajajo javnost.",
+      "Za dosego pravega prostega trga je potrebno omejiti možnost plenilskim multinacionalkam, da ustvarijo monopole."
+    ],
+    "page_3": [
+      "Splav, ko življenje ženske ni ogroženo, mora biti nezakonit.",
+      "Potreben je dvom v absolutnost katere koli avtoritete.",
+      "Oko za oko, zob za zob",
+      "Davkoplačevalski denar se ne bi smel porabljati za podporo gledališč ali muzejev, ki ne morejo preživeti na komercialni osnovi.",
+      "Prisotnost pri pouku ne bi smela biti obvezna.",
+      "Vsi ljudje imajo svoje pravice, a za vse nas je bolje, da se različne skupine ljudi držijo zase.",
+      "Dobri starši morajo včasih našeškati svoje otroke.",
+      "Za otroke je naravno, da skrivajo skrivnosti pred svojimi starši.",
+      "Posedovanje marihuane za osebno uporabo ne bi smelo biti kaznivo dejanje.",
+      "Glavna naloga šole bi morala biti opremljanje prihodnje generacije za iskanje zaposlitve.",
+      "Ljudem z resnimi dednimi motnjami bi moglo biti prepovedano razmnoževanje",
+      "Najpomembnejše kar se lahko otroci naučijo je sprejemanje discipline.",
+      "Ni divjih in civiliziranih ljudstev; obstajajo samo različne kulture.",
+      "Tisti, ki so sposobni delati in delo zavračajo, naj ne pričakujejo podpore družbe.",
+      "Ko ste v težavah, je bolje, da ne razmišljate o njih, ampak da se zamotite z bolj veselimi stvarmi.",
+      "Priseljenci prve generacije se nikoli ne morejo popolnoma vključiti v družbo svoje nove države.",
+      "Kar je dobro za najuspešnejše korporacije, je na koncu vedno dobro za vse nas.",
+      "Nobena radio-televizija, pa naj bo še tako vsebinsko neodvisna, ne bi smela prejemati javnih sredstev."
+    ],
+    "page_4": [
+      "V imenu boja proti terorizmu se pretirano omejuje naše državljanske svoboščine.",
+      "Pomembna prednost enostrankarske države je, da se izogne vsem nepotrebnim razpravam, ki sicer zavirajo napredek v demokratičnem političnem sistemu.",
+      "Čeprav elektronska doba prinaša lažji nadzor državnih organov nad ljudmi, mora to skrbeti le storilce prekrškov in kaznivih dejanj.",
+      "Za najhujša kazniva dejanja bi morala obstajati možnost smrtne kazni.",
+      "V civilizirani družbi je treba vedno imeti ljudi nad seboj, ki jih je treba ubogati in ljudem pod seboj, ki jim je treba poveljevati.",
+      "Abstraktna umetnost, ki ničesar ne predstavlja, se sploh ne bi smela šteti za umetnost.",
+      "V kazenskem pravu bi morala biti kazen pomembnejša od prevzgoje.",
+      "Poskušati prevzgojiti nekatere zločince je izguba časa.",
+      "Podjetnik in proizvajalec sta pomembnejša od pisatelja in umetnika.",
+      "Matere imajo morda lahko kariero, vendar je njihova prva dolžnost biti gospodinja.",
+      "Multinacionalke neetično izkoriščajo rastlinske genetske vire držav v razvoju.",
+      "Biti sprijaznjen s strukturami oblasti je pomemben vidik zrelosti."
+    ],
+    "page_5": [
+      "Astrologija lahko natančno razloži marsikaj.",
+      "Ne morete biti moralni, če niste verni",
+      "Dobrodelnost je boljša od shem socialne varnosti kot sredstvo za pomoč resnično prikrajšanim.",
+      "Nekateri ljudje so na splošno nesrečni.",
+      "Pomembno je, da šola mojega otroka uči verskih vrednot."
+    ],
+    "page_6": [
+      "Seks zunaj zakonske zveze je običajno nemoralen.",
+      "Istospolnemu paru v stabilnem in ljubečem odnosu ne bi smeli odreči možnosti posvojitve otroka.",
+      "Pornografija, ki prikazuje odrasle, ki so v to privolili, bi morala biti zakonita za odraslo populacijo.",
+      "Kar se dogaja doma v spalnici med odraslimi, ki stvari izvajajo s privolitvijo, ni stvar države.",
+      "Nihče se ne more naravno počutiti istospolno usmerjen.",
+      "Dandanes je odprtost do spolnosti in tematik o njej šla predaleč"
+    ]
+  },
+  "choices": [
+    "Se nikakor ne strinjam",
+    "Se ne strinjam",
+    "Se strinjam",
+    "Se zelo strinjam"
+  ]
+}

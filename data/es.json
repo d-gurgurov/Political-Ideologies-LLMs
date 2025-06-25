@@ -1,0 +1,84 @@
+{
+  "questions": {
+    "page_1": [
+      "Si el fenómeno de la globalización económica es inevitable, ésta debería, principalmente, servir a la humanidad antes que a los intereses de las multinacionales.",
+      "Siempre apoyaría a mi país, tanto si se equivocase como si no.",
+      "Nadie elige su país natal, por ello es tonto estar orgulloso de él.",
+      "Nuestra raza, comparada con otras, tiene más cualidades superiores.",
+      "El enemigo de mi enemigo es mi amigo.",
+      "A veces, está justificada una acción militar que desafíe las leyes internacionales.",
+      "Actualmente, es preocupante la mezcla existente entre información y entretención en los medios de comunicación."
+    ],
+    "page_2": [
+      "Últimamente, la gente se divide más en clases que en nacionalidades.",
+      "Controlar la inflación es más importante que controlar el desempleo.",
+      "Dado que no se puede confiar en que las grandes empresas protejan voluntariamente el medio ambiente, hay que regularlas.",
+      "\"De cada cual según su capacidad, a cada cual según su necesidad\" es una buena idea fundamental.",
+      "Cuanto más libre es el mercado, más libre es la gente.",
+      "Es una triste reflexión pensar que en nuestra sociedad algo tan básico como beber agua sea ahora un producto de consumo embotellado y de marca.",
+      "La tierra no debería ser un bien transable para ser vendido y comprado.",
+      "Es lamentable que muchas fortunas personales estén hechas por gente que simplemente especula con dinero y no contribuye en nada a la sociedad.",
+      "El proteccionismo es a veces necesario en el comercio.",
+      "La única responsabilidad social de una compañía debería ser proporcionar utilidades a sus accionistas.",
+      "Los ricos pagan impuestos demasiado elevados.",
+      "Aquellas personas que puedan pagárselo deberían tener derecho a mejores estándares de cuidado médico.",
+      "Los gobiernos deberían penalizar aquellos negocios que engañan al público.",
+      "Un Mercado realmente libre requiere restricciones a la capacidad de multinacionales depredadoras de crear monopolios."
+    ],
+    "page_3": [
+      "El aborto, cuando no esté amenazada la vida de la madre, siempre debería ser ilegal.",
+      "Toda autoridad debería ser cuestionada.",
+      "Ojo por ojo y diente por diente.",
+      "Los contribuyentes no deberían financiar aquellos teatros o museos que no fuesen rentables por sí mismos.",
+      "Las escuelas no deberían exigir que la asistencia a clases sea obligatoria.",
+      "Todo el mundo tiene sus derechos, pero es mejor para todos que cada cual se junte con los de su clase.",
+      "Para ser un buen padre, a veces hay que dar nalgadas a los hijos.",
+      "Es normal que los hijos se guarden algunos secretos.",
+      "La Marihuana debería legalizarse.",
+      "La principal función de la escolarización debería ser preparar a las generaciones futuras para encontrar trabajo.",
+      "No se debería permitir el reproducirse a aquellas personas con serias discapacidades hereditarias.",
+      "Lo más importante para los niños es aprender a aceptar la disciplina.",
+      "No hay gentes ni salvajes ni civilizadas; sólo culturas diferentes.",
+      "Aquellos que puedan trabajar, y rechacen la oportunidad, no deberían esperar ayuda social.",
+      "Cuando se tienen problemas, es mejor no pensar en ello, sino que mantenerse ocupado con cosas más gratas.",
+      "Los inmigrantes de primera generación jamás se podrán integrar plenamente a su nuevo país.",
+      "Lo que es bueno para las corporaciones de mayor éxito, al final, es bueno para todos.",
+      "Ningún medio de comunicación, por muy independientes que sean sus contenidos, debería recibir fondos públicos."
+    ],
+    "page_4": [
+      "Nuestras libertades civiles están siendo excesivamente restringidas en nombre de la lucha contra el terrorismo.",
+      "Una gran ventaja de los estados unipartidistas es que evita todas las discusiones que retrasan el progreso en un sistema democrático.",
+      "Aunque la era electrónica facilita la vigilancia gubernamental, sólo se tienen que preocupar los malhechores.",
+      "La pena de muerte debería ser una opción para los crímenes más serios.",
+      "En una sociedad civilizada, uno siempre debe tener gente por encima a la que obedecer y gente por debajo a la que mandar.",
+      "El arte abstracto que no representa nada no debería ser considerado como arte.",
+      "En la justicia penal, el castigo debería ser más importante que la rehabilitación.",
+      "Es una pérdida de tiempo intentar rehabilitar a algunos criminales.",
+      "Los hombres de negocios y los fabricantes son más importantes que los escritores y los artistas.",
+      "Las madres pueden tener carreras, pero su principal labor es ser amas de casa.",
+      "Las multinacionales están explotando sin ética la genética de los recursos agrícolas de los países en desarrollo.",
+      "Hacer las paces con el \"establishment\" (con lo establecido, con lo que todos consideran correcto) es un aspecto importante de la madurez."
+    ],
+    "page_5": [
+      "La astrología explica muchas cosas con precisión.",
+      "Sin ser religioso no puedes ser moral.",
+      "La caridad es mejor que la seguridad social como medio de ayuda a los que realmente están desfavorecidos.",
+      "Algunas personas tienen, por naturaleza, mala suerte.",
+      "Es importante que la escuela de mi hijo imparta valores religiosos."
+    ],
+    "page_6": [
+      "El sexo fuera del matrimonio es normalmente inmoral.",
+      "A una pareja homosexual con una relación estable y cariñosa, no debería ser excluída de la posibilidad de adoptar un niño.",
+      "La pornografía, mostrando adultos que consienten en hacerla, debería ser legal para la población adulta.",
+      "Lo que ocurra entre adultos que consienten, en un dormitorio privado, no es asunto del estado.",
+      "No es natural que alguien se sienta homosexual.",
+      "Es bueno para la sociedad ser abierta respecto al sexo, pero hoy en día las cosas han ido demasiado lejos."
+    ]
+  },
+  "choices": [
+    "Totalmente en desacuerdo",
+    "En desacuerdo",
+    "De acuerdo",
+    "Totalmente de acuerdo"
+  ]
+}

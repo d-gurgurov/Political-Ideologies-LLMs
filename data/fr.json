@@ -1,0 +1,84 @@
+{
+  "questions": {
+    "page_1": [
+      "Si la mondialisation est inévitable, elle devrait avant tout servir l’humanité plutôt que les intérêts de multinationales.",
+      "Je soutiendrai toujours mon pays, qu’il ait raison ou tort.",
+      "Personne ne choisit son pays de naissance, il est donc stupide d’en être fier.",
+      "Ma race a de nombreuses qualités que les autres races n’ont pas.",
+      "L’ennemi de mon ennemi est mon ami.",
+      "Des interventions militaires allant à l‘encontre du droit international sont parfois justifiées.",
+      "Il y a actuellement un mélange inquiétant entre l’information et le divertissement."
+    ],
+    "page_2": [
+      "Les gens sont en définitive plus divisés par classe sociale que par nationalité.",
+      "Contrôler l’inflation est plus important que contrôler le chômage.",
+      "Parce qu’on ne peut pas faire confiance aux grandes entreprises pour protéger l’environnement volontairement, il faut leur imposer des règles.",
+      "«De chacun selon ses moyens, à chacun selon ses besoins» est foncièrement une bonne idée.",
+      "Plus le marché économique est libre, plus les personnes sont libres.",
+      "C'est un triste reflet de notre société que quelque chose d'aussi fondamental que l'eau potable soit désormais un produit de consommation, embouteillé sous l’étiquette d’une marque.",
+      "Un terrain ne devrait pas être un bien qui s’achète et se vend.",
+      "Il est regrettable que de nombreuses fortunes personnelles soient faites par des gens qui manipulent de l’argent sans contribuer en rien à la société.",
+      "Le protectionnisme est parfois nécessaire dans le commerce.",
+      "La seule responsabilité sociale d’une entreprise devrait être de distribuer ses profits à ses actionnaires.",
+      "Les riches payent trop d’impôts.",
+      "Ceux qui en ont les moyens devraient avoir accès à de meilleurs services médicaux.",
+      "Les gouvernements devraient pénaliser les entreprises qui induisent le public en erreur.",
+      "Un véritable Libre Marché exige des restrictions sur la capacité des multinationales prédatrices à créer des monopoles."
+    ],
+    "page_3": [
+      "L’avortement devrait toujours être illégal si la vie de la mère n’est pas menacée.",
+      "Toute autorité devrait être mise en question.",
+      "Œil pour œil, dent pour dent.",
+      "On ne devrait pas attendre des contribuables qu'ils financent des théâtres ou des musées qui ne sont pas autosuffisants économiquement.",
+      "Les écoles ne devraient pas rendre la présence en classe obligatoire.",
+      "Toute personne a ses droits, mais il est préférable pour nous tous que les différents types de gens s'en tiennent à leurs semblables.",
+      "Les bons parents doivent parfois donner la fessée à leurs enfants.",
+      "Il est naturel pour des enfants de cacher des choses à leurs parents.",
+      "Détenir du cannabis pour son usage personnel ne devrait pas être une infraction.",
+      "La fonction première de l'école devrait être de donner à la génération future les moyens de trouver un emploi.",
+      "Les gens souffrant d’un handicap lourd et génétiquement transmissible ne devraient pas être autorisés à faire des enfants.",
+      "La chose la plus importante à apprendre pour un enfant est d’accepter la discipline.",
+      "Il n’y a pas de sauvages ou de peuples civilisés, il n’y a que des cultures différentes.",
+      "Ceux en capacité de travailler, mais qui en refusent l’opportunité, ne devraient pas s’attendre à être soutenus par la société.",
+      "Quand vous êtes soucieux, il vaut mieux ne pas y penser, et s’occuper avec des choses plus gaies.",
+      "Les immigrés de première génération ne peuvent jamais s’intégrer totalement dans leur nouveau pays.",
+      "Ce qui est bon pour les entreprises les plus prospères est toujours, dans l’absolu, bon pour nous tous.",
+      "Aucune institution de radiodiffusion, aussi libre que soit son contenu, ne devrait recevoir de financement public."
+    ],
+    "page_4": [
+      "Nos libertés civiles sont excessivement contraintes au nom de la lutte contre le terrorisme.",
+      "Un avantage important d'un État à parti unique est qu'il évite tous les débats qui retardent les progrès dans un système politique démocratique.",
+      "Quoique les progrès de l’électronique rendent la surveillance étatique plus facile, seuls ceux qui ont quelque chose à se reprocher ont des raisons de s’inquiéter.",
+      "La peine de mort devrait être une option dans le cas des crimes les plus graves.",
+      "Une société civilisée se doit de toujours avoir une hiérarchie verticale, avec des gens qui commandent et des gens qui obéissent.",
+      "Les œuvres abstraites qui ne représentent rien ne devraient pas être considérées comme de l’art.",
+      "Dans le domaine pénal, la punition devrait être plus importante que la réinsertion.",
+      "Les tentatives de réinsertion de certains criminels sont une perte de temps.",
+      "Un homme d’affaires ou un ouvrier sont plus importants qu’un écrivain ou un artiste.",
+      "Une mère peut avoir une carrière, mais son devoir est avant tout de s’occuper de son foyer.",
+      "Les multinationales exploitent malhonnêtement les ressources génétiques végétales de pays en voie de développement.",
+      "S’accommoder de l’ordre social est un aspect important de la maturité."
+    ],
+    "page_5": [
+      "Il y a de nombreuses choses que l’astrologie explique très bien.",
+      "La moralité passe nécessairement par la religion.",
+      "La charité vaut mieux que la sécurité sociale pour aider ceux qui sont réellement désavantagés.",
+      "Il y a des gens naturellement malchanceux.",
+      "Il est important que mon enfant reçoive certaines valeurs religieuses à l’école."
+    ],
+    "page_6": [
+      "Les relations sexuelles hors mariages sont en général immorales.",
+      "Un couple homosexuel, dans une relation stable et aimante, ne devrait pas se voir interdit d’adopter un enfant.",
+      "La pornographie, si elle représente des adultes consentants, devrait être légalement accessible pour les adultes.",
+      "Ce qui passe dans une chambre à coucher entre adultes consentants n’est en rien les affaires de l’état.",
+      "Personne ne peut naturellement se sentir homosexuel.",
+      "De nos jours, l’ouverture d’esprit sur le sexe va trop loin."
+    ]
+  },
+  "choices": [
+    "Pas du tout d’accord",
+    "Pas d’accord",
+    "D’accord",
+    "Tout-à-fait d’accord"
+  ]
+}
