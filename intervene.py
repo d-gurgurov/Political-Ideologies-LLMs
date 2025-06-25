@@ -82,33 +82,39 @@ def collect_all_activations(model, input_ids_list, device):
         all_activations.append(activations)
     return np.array(all_activations)  # shape: (num_samples, num_layers, num_heads, head_dim)
 
-def compute_center_of_mass_directions(activations, labels, num_classes):
+def compute_center_of_mass_directions(activations, labels):
     """
-    Compute center of mass (mean activation) for each class.
-    Returns: dict mapping class_idx -> numpy array of center of mass vectors
+    Compute class-conditional center-of-mass directions for each (layer, head).
+    Returns:
+        com_directions: dict mapping flattened head idx -> dict[class_idx] -> direction vector
+                        such that com_directions[idx][1] is the direction toward class 1,
+                        and com_directions[idx][0] is the direction toward class 0.
     """
     num_samples, num_layers, num_heads, head_dim = activations.shape
     com_directions = {}
-    
-    for class_idx in range(num_classes):
-        class_indices = np.where(np.array(labels) == class_idx)[0]
-        class_activations = activations[class_indices]
-        
-        for layer in range(num_layers):
-            for head in range(num_heads):
-                idx = layer_head_to_flattened_idx(layer, head, num_heads)
-                if idx not in com_directions:
-                    com_directions[idx] = {}
-                
-                # Compute mean activation for this class in this head
-                mean_activation = np.mean(class_activations[:, layer, head], axis=0)
-                norm = np.linalg.norm(mean_activation)
-                if norm > 0:
-                    com_directions[idx][class_idx] = mean_activation / norm
-                else:
-                    com_directions[idx][class_idx] = np.zeros_like(mean_activation)
-    
+
+    for layer in range(num_layers):
+        for head in range(num_heads):
+            idx = layer * num_heads + head  # flattened index
+
+            head_acts = activations[:, layer, head, :]  # shape: (num_samples, head_dim)
+            true_acts = head_acts[np.array(labels) == 1]
+            false_acts = head_acts[np.array(labels) == 0]
+
+            true_mean = np.mean(true_acts, axis=0)
+            false_mean = np.mean(false_acts, axis=0)
+
+            # Compute direction vectors
+            dir_toward_1 = true_mean - false_mean
+            dir_toward_0 = -dir_toward_1  # or false_mean - true_mean
+
+            com_directions[idx] = {
+                1: dir_toward_1,
+                0: dir_toward_0,
+            }
+
     return com_directions
+
 
 def get_interventions_dict(top_heads, probes, tuning_activations, num_heads, use_center_of_mass=False, 
                           use_random_dir=False, com_directions=None, target_class=None):
@@ -421,7 +427,7 @@ if __name__ == "__main__":
     MAX_NEW_TOKENS = 100  # Max tokens to generate
     
     # Hyperparameter grids to explore
-    K_VALUES = [128, 256, 512]  # Number of heads to intervene on
+    K_VALUES = [256, 512, 128]  # Number of heads to intervene on
     ALPHA_VALUES = [20, 25, 30]  # Intervention strength
     TARGET_CLASSES = [1, 0]  # Target classes to try
     
@@ -471,7 +477,7 @@ if __name__ == "__main__":
     print(f"Found {len(questions)} questions for English")
     
     # Compute center of mass directions once
-    com = compute_center_of_mass_directions(tuning_activations, label_list, len(label2id))
+    com = compute_center_of_mass_directions(tuning_activations, label_list)
     
     # Grid search over hyperparameters
     total_runs = len(K_VALUES) * len(ALPHA_VALUES) * len(TARGET_CLASSES)
